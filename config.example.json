@@ -1,0 +1,4 @@
+{
+  "mcp_token": "在此粘贴你的麦当劳官方 MCP Token（从 open.mcd.cn 控制台申请，详见 README.md「获取 Token」）",
+  "mcp_endpoint": "https://mcp.mcd.cn"
+}

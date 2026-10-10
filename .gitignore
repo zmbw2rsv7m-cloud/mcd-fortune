@@ -1,0 +1,6 @@
+# 真实 Token，切勿提交到 GitHub
+config.json
+
+# Python 缓存
+__pycache__/
+*.pyc
